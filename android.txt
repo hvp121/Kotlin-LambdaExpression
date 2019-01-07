@@ -3735,6 +3735,9 @@ Job Scheduler
 http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html
 ***************************************************************************************************************************************
 
+ANdroid With all Detail new funcationalities or chanegs
+https://android-arsenal.com/api
+
 
 
 
